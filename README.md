@@ -28,7 +28,7 @@ During model development, I implemented a robust pipeline that integrated cross-
 
 One of the key strategies I employed was stacking regressors, a powerful ensemble learning technique. By stacking models like CatBoost, Extra Trees, and LightGBM, I could combine their strengths, resulting in improved prediction accuracy and lower RMSE scores. The ensemble model consistently outperformed individual models.
 ### Performance and Leaderboard Standing:
-With approximately 575 individual participants (excluding teams), I achieved a final RMSE score of 6.37 on the private leaderboard. This placed me within the top 24.6% of participants, demonstrating the effectiveness of the models and techniques applied throughout the competition.
+With approximately 575 individual participants (excluding teams), I achieved a final RMSE score of 6.37 on the private leaderboard. This placed me within the top 39% of participants including teams and %24.6 excluding teams, demonstrating the effectiveness of the models and techniques applied throughout the competition.
 ## Conclusion
 This project allowed me to deeply explore advanced machine learning techniques, feature engineering, and ensemble methods. The final model was a result of iterative experimentation, rigorous cross-validation, and careful tuning. The experience not only enhanced my skills in model development but also in handling real-world datasets with a focus on predictive accuracy and model generalization.
 
